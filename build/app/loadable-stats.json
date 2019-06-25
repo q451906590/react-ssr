@@ -1,0 +1,337 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.28.4",
+  "hash": "077d1955ba414982e549",
+  "publicPath": "/static/",
+  "outputPath": "/Users/nengneng/Desktop/work/deepaiexpertweb/web/build/app",
+  "assetsByChunkName": {
+    "main": "main-b3c53090e.chunk.js",
+    "vendors": "vendors-59a81354c.js"
+  },
+  "assets": [
+    {
+      "name": "assets/static/.DS_Store",
+      "size": 8196,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/WPS.png",
+      "size": 13592,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/YY-hover.png",
+      "size": 36007,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/YY.png",
+      "size": 20991,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/arrow1.png",
+      "size": 432,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/arrow2.png",
+      "size": 419,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/favicon.ico",
+      "size": 24838,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/img-10.png",
+      "size": 139056,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/img-11.png",
+      "size": 207953,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/img-12-3a6a80d8d.jpg",
+      "size": 122401,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/img-12.jpg",
+      "size": 122401,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/img-12.png",
+      "size": 111421,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/img-13.png",
+      "size": 86570,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/img-14.png",
+      "size": 155465,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/img-15.png",
+      "size": 105092,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/img-2.png",
+      "size": 87382,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/img-3.png",
+      "size": 75646,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/img-5.png",
+      "size": 284651,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/img-6.png",
+      "size": 68603,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/img-7-90eb2fd49.png",
+      "size": 16677,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/img-7.png",
+      "size": 16677,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/img-8.png",
+      "size": 544279,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/img-9.png",
+      "size": 130988,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/img-LOGO.png",
+      "size": 10007,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/img-LOGO2-21d8c1e32.png",
+      "size": 198738,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/img-LOGO2.png",
+      "size": 198738,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/img-benner-e274e68a4.png",
+      "size": 247495,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/img-benner.png",
+      "size": 247495,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/logo.svg",
+      "size": 2671,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/wps-hover.png",
+      "size": 16497,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/中斯-hover.png",
+      "size": 39144,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/中斯.png",
+      "size": 21831,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/暨南大学-hover.png",
+      "size": 21189,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/暨南大学.png",
+      "size": 15128,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/米石logo-hover.png",
+      "size": 33465,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "assets/static/米石logo.png",
+      "size": 28985,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "favicon.ico",
+      "size": 24838,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "index-backup.html",
+      "size": 646,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "main-b3c53090e.chunk.js",
+      "size": 45331,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "main"
+      ]
+    },
+    {
+      "name": "vendors-59a81354c.js",
+      "size": 3191258,
+      "chunks": [
+        1
+      ],
+      "chunkNames": [
+        "vendors"
+      ]
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "main": {
+      "chunks": [
+        1,
+        0
+      ],
+      "assets": [
+        "vendors-59a81354c.js",
+        "main-b3c53090e.chunk.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "main": {
+      "chunks": [
+        1,
+        0
+      ],
+      "assets": [
+        "vendors-59a81354c.js",
+        "main-b3c53090e.chunk.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "children": [
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "/static/",
+      "outputPath": "/Users/nengneng/Desktop/work/deepaiexpertweb/web/build/app",
+      "assetsByChunkName": {},
+      "assets": [
+        {
+          "name": "index-backup.html",
+          "size": 545288,
+          "chunks": [
+            0
+          ],
+          "chunkNames": []
+        }
+      ],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "undefined": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "index-backup.html"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "undefined": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "index-backup.html"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "children": [],
+      "name": "html-webpack-plugin for \"index-backup.html\""
+    }
+  ]
+}
